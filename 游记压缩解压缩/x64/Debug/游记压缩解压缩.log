@@ -1,0 +1,5 @@
+﻿D:\VS2022\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: 中间目录(x64\Debug\)包含从另一个项目(游记压缩解压缩.vcxproj)共享的文件。   这会导致错误的清除和重新生成行为。
+  journey_load.cpp
+D:\学习\ds课设\游记压缩解压缩\游记压缩解压缩\journey_load.cpp(25,10): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\学习\ds课设\游记压缩解压缩\游记压缩解压缩\journey_load.cpp(26,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  游记压缩解压缩.vcxproj -> D:\学习\ds课设\游记压缩解压缩\x64\Debug\游记管理系统.exe
